@@ -1,0 +1,1 @@
+https://henotia.github.io/IonicEmbedded-1/ 참고
